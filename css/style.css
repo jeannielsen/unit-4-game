@@ -1,0 +1,80 @@
+
+body {
+  padding-right: 230px;
+  background-image: url("../images/background_new.jpg");
+  width: 100%;
+  background-repeat: no-repeat;
+  
+}
+
+.container {
+  text-align: left;
+  padding-left: 125px;
+  }
+  
+h1 {
+  color:  #BC4689;
+}
+
+h3 {
+  color: #BC4689;
+  padding-bottom: 20px;
+}
+
+h4 {
+  color: #5c2018;
+  text-align: center;
+}
+
+.card {
+  background-color: #d4a59a;
+  text-align: left;
+}
+
+.card-body {
+  background-color: #d4a59a;
+  text-align: left;
+}
+
+.col-lg-3 {
+  text-align: left;
+  padding-left: 100px;
+}
+
+.col-lg-6 {
+  text-align: left;
+  padding-left: 100px;
+}
+
+.btn1 {
+  background-image: url("../images/purple_crystal.jpg");
+  width: 115px;
+  height: 115px;
+  border: none;
+}
+
+.btn2 {
+  background-image: url("../images/green_crystal.jpg");
+  width: 115px;
+  height: 115px;
+  border: none;
+}
+
+.btn3 {
+  background-image: url("../images/blue_crystal.jpg");
+  width: 115px;
+  height: 115px;
+  border: none;
+}
+
+.btn4 {
+  background-image: url("../images/dkpurple_crystal.jpg");
+  width: 115px;
+  height: 115px;
+  border: none;
+}
+
+.container2 {
+  
+  padding-left: 125px;
+}
